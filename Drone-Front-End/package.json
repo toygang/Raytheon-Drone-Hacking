@@ -8,8 +8,9 @@
   "dependencies": {
     "body-parser": "1.18.3",
     "cookie-parser": "1.4.4",
+    "debug": "3.1.0",
+    "ejs": "2.6.1",
     "debug": "3.2.6",
-    "ejs": "2.5.9",
     "express": "4.16.4",
     "morgan": "1.9.1",
     "rolling-spider": "1.7.0",
